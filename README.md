@@ -26,14 +26,14 @@ We researched this to provide the statements, facts, and historical precedent th
 Given their public statements, it's nearly certain that Biden will sign the bill, the Commerce Secretary will initiate the process to compel ByteDance to delist/divest TikTok US, and ByteDance will challenge the bill to get the ban overturned. So the first big question is, how can we infer whether ByteDance will prevail against the CFIUS and the Department of Commerce to get the ruling overturned?
 
 First, we expect that the case will most likely be heard by a DC District Court judge. One likely candidate is Chief Judge James Boasberg, who is partial to Congress and the President:
-![judge](/TikTok-judge.png)
+![judge](/images/TikTok-judge.png)
 
 That said, courts have struck down bans like this on First Amendment grounds:
-![background](/TikTok-suit-background.png)
+![background](/images/TikTok-suit-background.png)
 *[You can interact with this widget, and the below, on FutureSearch.](https://app.futuresearch.ai/forecasts/ZYMek/public)*
 
 We also find that most similar cases to TikTok's forthcoming suit rarely succeed. ByteDance prevailed against Trump in 2020, but that was an executive order, not congressional legislation. Tencent, Huawei, ZTE, China Telecom, China Mobile International, Sberbank of Russia, have all lost in similar cases, given an overall estimate of a 13% historical success rate:
-![model](/TikTok-suit-model.png)
+![model](/images/TikTok-suit-model.png)
 
 Still, overall we give TikTok a **20%** chance, higher than this 13% statistic, as ByteDance's case might be a lot stronger than the historical norm.
 
@@ -41,7 +41,7 @@ Still, overall we give TikTok a **20%** chance, higher than this 13% statistic, 
 
 We find that in most similar cases to what TikTok is facing, action from the CFIUS on national security grounds, in all 5 instances, the company managed to sell their US operations on time, instead of shutting their US businesses down:
 
-![divestment](/Divestment-model.png)
+![divestment](/images/Divestment-model.png)
 
 The most similar case is Grindr. One difference is that the Chinese company Kunlun didn't found Grindr, but purchased it in 2018. In 2019, the CFIUS gave them until June 2020 to sell Grindr to a US company, citing national security concerns (presumably because it had information on the private sexual preferences of Americans, which is similar to how CFIUS sees TikTok). Kunlun did so, selling to San Vicente Acquisition for ~$600 million.
 
@@ -54,7 +54,7 @@ The reasons they might fail relate to ByteDance IP, and the presumed very high p
 ### If they sell, how much will it sell for?
 
 Here, we are much less confident, giving this distribution:
-![distribution](/TikTok-sale-price.png)
+![distribution](/images/TikTok-sale-price.png)
 
 The most important variable we find is whether TikTok US will include ByteDance's famous recommendation algorithm, or equivalent. China has stated that this is proprietary and not for sale. TikTok US could presumably make a similar algorithm, or privately license it. How much of the value is in the algorithm vs. the userbase? We don't know, so this gives us a very wide confidence interval.
 
@@ -67,7 +67,7 @@ In 2020, Walmart and Oracle were the top contenders. TikTok US has in fact moved
 At a higher price, Microsoft or Amazon are the top contenders. Microsoft did put in a bid in 2020, so we consider them the most likely of the big tech firms. Alphabet and Meta are struggling too much with antitrust to seriously consider this, plus they might expect such purcahses to be blocked by the FTC.
 
 From public statements, a consortium led by Steve Mnuchin is the next most likely:
-![distribution](/Mnuchin-interest.png)
+![distribution](/images/Mnuchin-interest.png)
 
 Steve Mnuchin has the unique background of being in the Trump cabinet during the 2020 executive order to divest TikTok, while also having career experience in investment and M&A. Mnuchin is seeking an AI partner to "rebuilt in the US", and he'll need to find investors. We see Snap or X as potential partners, even though their market caps might be lower than TikTok US, they could provide some of the capital and some of the AI expertise. 
 
