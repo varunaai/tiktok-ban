@@ -28,10 +28,10 @@ Google, ChatGPT, Perplexity, etc. have almost nothing to say on questions like t
 The first three points are well established by public statements from Biden, TikTok execs. The first complicated question is whether TikTok will prevail when it sues the Department of Commerce to get the ruling overturned. Our analysis is in [Probability TikTok will win a lawsuit that prevents the U.S. government from forcing a divestiture or banning its operations in the U.S.](https://app.futuresearch.ai/forecasts/ZYMek/public)
 
 Courts have struck down bans like this on First Amendment grounds:
-[image]
+![background](/TikTok-suit-background.png)
 
 But the most similar cases to TikTok's forthcoming suit rarely succeed. ByteDance prevailed against Trump in 2020, but that was an executive order, not congressional legislation. Tencent, Huawei, ZTE, China Telecom, China Mobile International, Sberbank of Russia, have all lost in similar suits, given an overall estimate of a 13% historical success rate:
-[image]
+![model](/TikTok-suit-model.png)
 
 We also expect that the case will be heard by a DC District Court judge who is likely to side with Congress and the President, which could influence the ruling against TikTok. Still, overall we give TikTok a **20%** chance, higher than this 13%, as their case might be a lot stronger than the historical norm. Also, there are also other targets they could sue, other than the Department of Commerce.
 
@@ -39,7 +39,7 @@ We also expect that the case will be heard by a DC District Court judge who is l
 
 Our primary finding is that in the 5 most similar cases to what TikTok is facing, action from the CFIUS on national security grounds, in all 5 of them, the company managed to sell their US operations on time, instead of shutting them down:
 
-[image]
+![divestment](/Divestment-model.png)
 *(You can interact with this widget here)[https://app.futuresearch.ai/forecasts/ZYMek/public#PAST]*
 
 The most similar case is Grindr. One difference is that the Chinese company Kunlun didn't found Grindr, but did purchase it in 2018. In 2019, the CFIUS gave them until June 2020 to sell Grindr to a US company, citing national security concerns (presumably because it had information on the private sexual preferences of Americans, which could be very similar to how CFIUS sees TikTok). Kunlun did so, selling to San Vicente Acquisition for about $608.5 million.
@@ -53,7 +53,7 @@ https://app.futuresearch.ai/forecasts/ZYMek/public#PAST.
 ### If they sell, how much will it sell for?
 
 Here, we are much less confident, giving this distribution:
-[image]
+![distribution](/TikTok-sale-price.png)
 
 The most important variable we find is whether TikTok US will include ByteDance's famous recommendation algorithm, or something similar to is. China has stated that this is proprietary and not for sale. TikTok US could presumably make a similar algorithm, or privately license it. How much of the value is in the algorithm vs. the userbase? We don't know, so this gives us a very wide confidence interval.
 
@@ -66,10 +66,9 @@ In 2020, Walmart and Oracle were the top contenders. TikTok US has in fact moved
 At a higher price, Microsoft or Amazon are the top contenders. Microsoft did put in a bid in 2020, so we consider them the most likely of the big tech firms. Alphabet and Meta are struggling too much with antitrust to seriously consider this, plus they might expect such purcahses to be blocked by the FTC.
 
 From public statements, a consortium led by Steve Mnuchin is the next most likely:
+![distribution](/Mnuchin-interest.png)
 
-[image]
-
-This "rebuilt in the US" attitude might require a large partnership of investors, similar to how Larry Ellison helped Elon Musk buy X. In fact, we see Snap or X as potential partners, even though their market caps might be lower than TikTok US, they could work in partnership with a network of investors. We don't feel confident enough to give probabilities here.
+Steve Mnuchin has the unique background of being in the Trump cabinet during the 2020 executive order to divest TikTok, while also having career experience in investment and M&A. This "rebuilt in the US" attitude might require a large partnership of investors, similar to how Larry Ellison helped Elon Musk buy X. In fact, we see Snap or X as potential partners, even though their market caps might be lower than TikTok US, they could work in partnership with a network of investors. We don't feel confident enough to give probabilities here.
 
 ## Learn more
 
