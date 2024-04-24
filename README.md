@@ -1,9 +1,9 @@
-# TikTok ban - what will happen next?
-*April 23, 2024, [FutureSearch](https://futuresearch.ai)*
+# Biden signs TikTok ban - what will happen next?
+*April 24, 2024, [FutureSearch](https://futuresearch.ai)*
 
-Biden said that today he will sign the Senate bill that forces ByteDance to sell or delist TikTok US. What will happen next? Will ByteDance get this overturned in court? How much is TikTok US worth? Will Oracle and Walmart bid again, or who else might buy it?
+Biden just signed the Senate bill that forces ByteDance to sell or delist TikTok US. What will happen next? Will ByteDance get this overturned in court? How much is TikTok US worth? Will Oracle and Walmart bid again, or who else might buy it?
 
-We researched this to provide the statements, facts, and history that best predict the outcomes.
+We researched this to provide the statements, facts, and historical precedent that best predict the outcomes.
 
 ## Summary of findings
 
@@ -23,24 +23,23 @@ We researched this to provide the statements, facts, and history that best predi
 
 ### Will TikTok win in its soon-to-come suit against the Department of Commerce?
 
-That Biden will sign the bill, the Commerce Secretary will initiate the process to compel ByteDance to delist/divest TikTok US, and that ByteDance will sue to get this overturned are nearly certain from public statements, so we skip right to this question about the suit. How can we judge whether ByteDance will prevail against the CFIUS and the Department of Commerce to get the ruling overturned?
+Given their public statements, it's nearly certain that Biden will sign the bill, the Commerce Secretary will initiate the process to compel ByteDance to delist/divest TikTok US, and ByteDance will challenge the bill to get the ban overturned. So the first big question is, how can we infer whether ByteDance will prevail against the CFIUS and the Department of Commerce to get the ruling overturned?
 
-We also expect that the case will most likely be heard by a DC District Court judge. One likely candidate is Chief Judge James Boasberg,
-who is likely to side with Congress and the President:
+First, we expect that the case will most likely be heard by a DC District Court judge. One likely candidate is Chief Judge James Boasberg, who is partial to Congress and the President:
 ![judge](/TikTok-judge.png)
 
 That said, courts have struck down bans like this on First Amendment grounds:
 ![background](/TikTok-suit-background.png)
 *[You can interact with this widget, and the below, on FutureSearch.](https://app.futuresearch.ai/forecasts/ZYMek/public)*
 
-But the most similar cases to TikTok's forthcoming suit rarely succeed. ByteDance prevailed against Trump in 2020, but that was an executive order, not congressional legislation. Tencent, Huawei, ZTE, China Telecom, China Mobile International, Sberbank of Russia, have all lost in similar suits, given an overall estimate of a 13% historical success rate:
+We also find that most similar cases to TikTok's forthcoming suit rarely succeed. ByteDance prevailed against Trump in 2020, but that was an executive order, not congressional legislation. Tencent, Huawei, ZTE, China Telecom, China Mobile International, Sberbank of Russia, have all lost in similar cases, given an overall estimate of a 13% historical success rate:
 ![model](/TikTok-suit-model.png)
 
-Still, overall we give TikTok a **20%** chance, higher than this 13%, as their case might be a lot stronger than the historical norm. Also, there are also other targets they could sue, other than the Department of Commerce.
+Still, overall we give TikTok a **20%** chance, higher than this 13% statistic, as ByteDance's case might be a lot stronger than the historical norm.
 
-### If they lose the suit, will TikTok succeed in divesting or will they be forced to delist from US app stores?
+### If they fail to overturn the ban, will TikTok succeed in divesting or will they be forced to delist from US app stores?
 
-Our primary finding is that in the most similar cases to what TikTok is facing, action from the CFIUS on national security grounds, in all 5 instances, the company managed to sell their US operations on time, instead of shutting their US businesses down:
+We find that in most similar cases to what TikTok is facing, action from the CFIUS on national security grounds, in all 5 instances, the company managed to sell their US operations on time, instead of shutting their US businesses down:
 
 ![divestment](/Divestment-model.png)
 
